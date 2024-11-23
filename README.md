@@ -60,6 +60,27 @@ This project analyzes employee attrition data to identify trends and key drivers
 ---
 
 ## How to Use  
-1. **Clone the Repository**  
+1. Clone the Repository
    ```bash
    git clone https://github.com/yourusername/HR_Employee_Attrition_Analysis.git
+
+2. Set Up the Database
+    •	Import the dataset into SQL Server.
+    •	Run Data_Cleaning.sql to preprocess the data.
+
+3. Open the Dashboard
+   • Use Power BI Desktop to explore HR_Attrition_Dashboard.pbix.
+
+---
+## Project Files
+    • SQL_Scripts/
+    • Data_Cleaning.sql
+    • Attrition_Analysis.sql
+   Power_BI/
+     HR_Attrition_Dashboard.pbix
+     Visuals/
+     Dashboard screenshots.
+   Contact
+   Name: Adedotun Toheeb
+   LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/adedotun-toheeb-8198021a1)
+   Email: Tibson08@gmail.com
