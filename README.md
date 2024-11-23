@@ -149,7 +149,7 @@ ORDER BY
    - *Insight:* Employees rating work-life balance as Very Poor and Poor are more likely to leave.  
 
 5. Attrition by Marital Status
-![Image Alt](https://github.com/Tibson-spec/HR_Employee_Attrition_Analysis Project/blob/main/Attritrion%20by%20marital%20status.PNG?raw=true) 
+![Image Alt](https://github.com/Tibson-spec/HR_Employee_Attrition_Analysis-Project/blob/main/Attritrion%20by%20marital%20status.PNG?raw=true)
    - *Visualization:* Donut Chart  
    - *Insight:* Single employees have a higher likelihood of attrition.  
 
