@@ -135,7 +135,7 @@ ORDER BY
 
 ## **Visualizations**
 ## HR Employee Attrition overview dashboard
-![Image Alt](https://github.com/Tibson-spec/Adidas-Sales-Analysis-Project/blob/main/sales%20over.PNG?raw=true)
+![Image Alt](https://github.com/Tibson-spec/HR_Employee_Attrition_Analysis-Project/blob/main/HR%20overview.PNG?raw=true)
 
 ### **Dashboard Highlights**  
 1. **Attrition Rate by Job Role**  
