@@ -163,6 +163,7 @@ ORDER BY
 - Low Income Drives Attrition: Employees earning <$3,000/month have a 50% higher attrition rate.
 - Attrition Rate: High attrition rate observed in specific departments such as Sales and Human Resources.
 - Work-Life Balance is Crucial: Employees with ratings of 1 or 2 (Poor and V.Poor) show a 40% higher attrition rate.
+- Younger employees (Age 20-30) and single employees show higher attrition rates.
 - Job Role Variations: Sales Executives and Lab Technicians have the highest attrition.
 - Marital Status Influence: Single employees are more likely to leave compared to married ones.
 - Proximity Matters: Employees commuting long distances (>20 km) are more likely to leave.
@@ -171,6 +172,7 @@ ORDER BY
 - Employees working overtime are more likely to leave, especially if paired with poor work-life balance (rated 1 or 2).
 Retrenchment disproportionately impacts employees with poor work-life balance.
 
+
 ---
 
 ## **Recommendations**  
@@ -178,7 +180,10 @@ Retrenchment disproportionately impacts employees with poor work-life balance.
 2. **Support Work-Life Balance:** Introduce flexible hours and remote work options.  
 3. **Targeted Retention Efforts:** Focus on single employees through engagement programs such as surveys, team-building activities, and leadership feedback. 
 4. **Commute Incentives:** Provide transportation assistance or offer relocation benefits.
-5. Retention Programs: Design and implement data-driven retention programs to target high-risk employee groups. 
+5. Retention Programs: Design and implement data-driven retention programs to target high-risk employee groups.
+6. Create mentorship and upskilling programs to engage younger employees.
+7. Provide additional support to employees undergoing life transitions, such as divorce. 
+
 
 ---
 
