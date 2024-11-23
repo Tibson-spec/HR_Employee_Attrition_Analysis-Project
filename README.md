@@ -215,7 +215,7 @@ Retrenchment disproportionately impacts employees with poor work-life balance.
 
 ---
 
-Conclusion
+##   Conclusion
 The HR Employee Attrition Analysis project provides valuable insights into the factors influencing employee turnover, enabling organizations to make data-driven decisions to enhance employee retention and satisfaction.
 
 ---
