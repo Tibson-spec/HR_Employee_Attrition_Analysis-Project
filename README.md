@@ -153,7 +153,8 @@ ORDER BY
    - *Visualization:* Donut Chart  
    - *Insight:* Single employees have a higher likelihood of attrition.  
 
-7. **Attrition vs. Monthly Income**  
+7. Attrition vs. Monthly Income
+![Image Alt](https://github.com/Tibson-spec/HR_Employee_Attrition_Analysis-Project/blob/main/monthly%20income%20vs%20attrition.PNG?raw=true) 
    - *Visualization:* Line Chart  
    - *Insight:* Attrition significantly decreases beyond a monthly income threshold of $3,000.  
 
