@@ -11,14 +11,15 @@ This project analyzes employee attrition data to identify trends and key drivers
 ---
 
 ## Table of Contents  
-1. [Dataset Overview](#dataset-overview)  
-2. [Visualizations](#visualizations)  
-3. [Tools Used](#tools-used)  
-4. [How to Use](#how-to-use)
-5. [Key Insights](#key-insights)
-6. [Recommendation](#Recommendation)
-7. [Project Files](#project-files)  
-. [Contact](#contact)  
+1. [Dataset Overview](#dataset-overview)
+2. [Objectives](#Objectives)
+3. [Visualizations](#visualizations)  
+4. [Tools Used](#tools-used)  
+5. [How to Use](#how-to-use)
+6. [Key Insights](#key-insights)
+7. [Recommendation](#Recommendation)
+8. [Project Files](#project-files)  
+9. [Contact](#contact)  
 
 ---
 
@@ -60,27 +61,17 @@ This project analyzes employee attrition data to identify trends and key drivers
 ---
 
 ## How to Use  
-1. Clone the Repository
-   ```bash
-   git clone https://github.com/yourusername/HR_Employee_Attrition_Analysis.git
-
-2. Set Up the Database
-    •	Import the dataset into SQL Server.
-    •	Run Data_Cleaning.sql to preprocess the data.
-
-3. Open the Dashboard
-   • Use Power BI Desktop to explore HR_Attrition_Dashboard.pbix.
+- Clone the GitHub Repository: Download SQL scripts and the Power BI file.
+- Set Up Database: Import the dataset and run cleaning scripts.
+- Open Dashboard: Use Power BI Desktop to interact with the visualizations.
 
 ---
 ## Project Files
-    • SQL_Scripts/
-    • Data_Cleaning.sql
-    • Attrition_Analysis.sql
-   Power_BI/
-     HR_Attrition_Dashboard.pbix
-     Visuals/
-     Dashboard screenshots.
+   SQL_Scripts/Data_Cleaning/Attrition_Exploratory Analysis.sql
+   Power_BI/HR_Attrition_Dashboard.pbix
+   Visuals/Dashboard screenshots.
    Contact
-   Name: Adedotun Toheeb
-   LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/adedotun-toheeb-8198021a1)
-   Email: Tibson08@gmail.com
+ 
+ ## Name: Adedotun Toheeb
+    LinkedIn:[LinkedIn Profile](www.linkedin.com/in/adedotun-toheeb-8198021a1)
+    Email: Tibson08@gmail.com
