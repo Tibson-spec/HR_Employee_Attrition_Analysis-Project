@@ -75,6 +75,6 @@ This project analyzes employee attrition data to identify trends and key drivers
 ## Contact
   Name: Adedotun Toheeb
   
-  LinkedIn:[Click](www.linkedin.com/in/adedotun-toheeb-8198021a1)
+  LinkedIn:[Click](https://www.linkedin.com/in/adedotun-toheeb-8198021a1)
   
   Email: Tibson08@gmail.com
