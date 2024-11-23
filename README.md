@@ -146,13 +146,14 @@ ORDER BY
 3. Work-Life Balance vs. Attrition
 ![Image Alt](https://github.com/Tibson-spec/HR_Employee_Attrition_Analysis-Project/blob/main/work%20life%20vs%20attrition.PNG?raw=true)
    - *Visualization:* Stacked Bar Chart  
-   - *Insight:* Employees rating work-life balance as 1 or 2 are more likely to leave.  
+   - *Insight:* Employees rating work-life balance as Very Poor and Poor are more likely to leave.  
 
-5. **Attrition by Marital Status**  
+5. Attrition by Marital Status
+![Image Alt](https://github.com/Tibson-spec/HR_Employee_Attrition_Analysis Project/blob/main/Attritrion%20by%20marital%20status.PNG?raw=true) 
    - *Visualization:* Donut Chart  
    - *Insight:* Single employees have a higher likelihood of attrition.  
 
-6. **Attrition vs. Monthly Income**  
+7. **Attrition vs. Monthly Income**  
    - *Visualization:* Line Chart  
    - *Insight:* Attrition significantly decreases beyond a monthly income threshold of $3,000.  
 
