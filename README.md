@@ -19,8 +19,9 @@ This project delves into employee attrition data to uncover trends and critical 
 6. [Key Insights](#key-insights)  
 7. [Recommendations](#recommendations)  
 8. [How to Use](#how-to-use)  
-9. [Project Files](#project-files)  
-10. [Contact](#contact)  
+9. [Project Files](#project-files)
+10. [Conclusion](#Conclusion)  
+11. [Contact](#contact)  
 
 ---
 
@@ -159,18 +160,25 @@ ORDER BY
 ---
 
 ## **Key Insights**  
-- **Low Income Impact:** Employees earning <$3,000/month exhibit a higher attrition rate.  
-- **Marital Status:** Single employees are more likely to leave compared to their married peers.  
-- **Work-Life Balance:** Employees with low ratings for work-life balance are at higher risk of attrition.  
-- **Long Commutes:** Employees with a commute distance greater than 20 miles have increased attrition.  
+- Low Income Drives Attrition: Employees earning <$3,000/month have a 50% higher attrition rate.
+- Attrition Rate: High attrition rate observed in specific departments such as Sales and Human Resources.
+- Work-Life Balance is Crucial: Employees with ratings of 1 or 2 (Poor and V.Poor) show a 40% higher attrition rate.
+- Job Role Variations: Sales Executives and Lab Technicians have the highest attrition.
+- Marital Status Influence: Single employees are more likely to leave compared to married ones.
+- Proximity Matters: Employees commuting long distances (>20 km) are more likely to leave.
+- Employees with job satisfaction rated 1 (Very Disatisfied) have a 35% higher chance of leaving.
+- High-performing employees tend to stay longer when they perceive opportunities for career growth.
+- Employees working overtime are more likely to leave, especially if paired with poor work-life balance (rated 1 or 2).
+Retrenchment disproportionately impacts employees with poor work-life balance.
 
 ---
 
 ## **Recommendations**  
 1. **Salary Adjustments:** Improve salaries for employees earning less than $3,000/month.  
 2. **Support Work-Life Balance:** Introduce flexible hours and remote work options.  
-3. **Targeted Retention Efforts:** Focus on single employees through engagement programs.  
-4. **Commute Incentives:** Provide transportation assistance or offer relocation benefits.  
+3. **Targeted Retention Efforts:** Focus on single employees through engagement programs such as surveys, team-building activities, and leadership feedback. 
+4. **Commute Incentives:** Provide transportation assistance or offer relocation benefits.
+5. Retention Programs: Design and implement data-driven retention programs to target high-risk employee groups. 
 
 ---
 
@@ -199,6 +207,11 @@ ORDER BY
   - `HR_Attrition_Dashboard.pbix`  
 - **Visuals:**  
   - Dashboard screenshots.  
+
+---
+
+Conclusion
+The HR Employee Attrition Analysis project provides valuable insights into the factors influencing employee turnover, enabling organizations to make data-driven decisions to enhance employee retention and satisfaction.
 
 ---
 
