@@ -67,11 +67,14 @@ This project analyzes employee attrition data to identify trends and key drivers
 
 ---
 ## Project Files
-   SQL_Scripts/Data_Cleaning/Attrition_Exploratory Analysis.sql
-   Power_BI/HR_Attrition_Dashboard.pbix
-   Visuals/Dashboard screenshots.
-   Contact
- 
- ## Name: Adedotun Toheeb
-    LinkedIn:[LinkedIn Profile](www.linkedin.com/in/adedotun-toheeb-8198021a1)
-    Email: Tibson08@gmail.com
+- SQL_Scripts/Data_Cleaning/Attrition_Exploratory Analysis.sql
+- Power_BI/HR_Attrition_Dashboard.pbix
+- Visuals/Dashboard screenshots.
+
+---
+## Contact
+  Name: Adedotun Toheeb
+  
+  LinkedIn:[Click](www.linkedin.com/in/adedotun-toheeb-8198021a1)
+  
+  Email: Tibson08@gmail.com
