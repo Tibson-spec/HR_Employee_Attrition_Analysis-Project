@@ -136,8 +136,8 @@ ORDER BY
 ## **Visualizations**  
 ### **Dashboard Highlights**  
 1. **Attrition Rate by Job Role**  
-   - *Visualization:* Clustered Bar Chart  
-   - *Insight:* Sales Executives and Lab Technicians have the highest attrition rates.  
+   - *Visualization:* Stacked Bar Chart  
+   - *Insight:* Sales Representatives and Lab Technicians have the highest attrition rates.  
 
 2. **Work-Life Balance vs. Attrition**  
    - *Visualization:* Stacked Bar Chart  
