@@ -138,19 +138,20 @@ ORDER BY
 ![Image Alt](https://github.com/Tibson-spec/HR_Employee_Attrition_Analysis-Project/blob/main/HR%20overview.PNG?raw=true)
 
 ### **Dashboard Highlights**  
-1. **Attrition Rate by Job Role**  
+1. **Attrition Rate by Job Role
+![Image Alt](https://github.com/Tibson-spec/HR_Employee_Attrition_Analysis-Project/blob/main/Attrition%20by%20jobrole.PNG?raw=true)
    - *Visualization:* Stacked Bar Chart  
    - *Insight:* Sales Representatives and Lab Technicians have the highest attrition rates.  
 
-2. **Work-Life Balance vs. Attrition**  
+3. **Work-Life Balance vs. Attrition**  
    - *Visualization:* Stacked Bar Chart  
    - *Insight:* Employees rating work-life balance as 1 or 2 are more likely to leave.  
 
-3. **Attrition by Marital Status**  
+4. **Attrition by Marital Status**  
    - *Visualization:* Donut Chart  
    - *Insight:* Single employees have a higher likelihood of attrition.  
 
-4. **Attrition vs. Monthly Income**  
+5. **Attrition vs. Monthly Income**  
    - *Visualization:* Line Chart  
    - *Insight:* Attrition significantly decreases beyond a monthly income threshold of $3,000.  
 
