@@ -147,7 +147,6 @@ ORDER BY
 ![Image Alt](https://github.com/Tibson-spec/HR_Employee_Attrition_Analysis-Project/blob/main/work%20life%20vs%20attrition.PNG?raw=true)
    - *Visualization:* Stacked Bar Chart  
    - *Insight:* Employees rating work-life balance as Very Poor and Poor are more likely to leave.
- 
 
 3. Attrition by Marital Status
 ![Image Alt](https://github.com/Tibson-spec/HR_Employee_Attrition_Analysis-Project/blob/main/Attritrion%20by%20marital%20status.PNG?raw=true)
