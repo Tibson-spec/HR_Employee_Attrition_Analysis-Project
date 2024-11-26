@@ -143,17 +143,17 @@ ORDER BY
    - *Visualization:* Stacked Bar Chart  
    - *Insight:* Sales Representatives and Lab Technicians have the highest attrition rates.  
 
-3. Work-Life Balance vs. Attrition
+2. Work-Life Balance vs. Attrition
 ![Image Alt](https://github.com/Tibson-spec/HR_Employee_Attrition_Analysis-Project/blob/main/work%20life%20vs%20attrition.PNG?raw=true)
    - *Visualization:* Stacked Bar Chart  
    - *Insight:* Employees rating work-life balance as Very Poor and Poor are more likely to leave.  
 
-5. Attrition by Marital Status
+3. Attrition by Marital Status
 ![Image Alt](https://github.com/Tibson-spec/HR_Employee_Attrition_Analysis-Project/blob/main/Attritrion%20by%20marital%20status.PNG?raw=true)
    - *Visualization:* Donut Chart  
    - *Insight:* Single employees have a higher likelihood of attrition.  
 
-7. Attrition vs. Monthly Income
+4. Attrition vs. Monthly Income
 ![Image Alt](https://github.com/Tibson-spec/HR_Employee_Attrition_Analysis-Project/blob/main/monthly%20income%20vs%20attrition.PNG?raw=true) 
    - *Visualization:* Line Chart  
    - *Insight:* Attrition significantly decreases beyond a monthly income threshold of $3,000.  
@@ -215,7 +215,7 @@ Retrenchment disproportionately impacts employees with poor work-life balance.
 - SQL Scripts:[Click Here](https://github.com/Tibson-spec/HR_Employee_Attrition_Analysis-Project/blob/main/HR%20Attrition%20Projects.sql)  
   - `Data_Cleaning.sql`  
   - `Attrition_Analysis.sql`  
-- **Power BI Dashboard:[click here](https://github.com/Tibson-spec/HR_Employee_Attrition_Analysis-Project/blob/main/HR%20Attrition%20Analysis%20Dashboard.pbix)  
+- Power BI Dashboard:[click here](https://github.com/Tibson-spec/HR_Employee_Attrition_Analysis-Project/blob/main/HR%20Attrition%20Analysis%20Dashboard.pbix)  
   - `HR_Attrition_Dashboard.pbix`  
 - **Visuals:**  
   - Dashboard screenshots.  
